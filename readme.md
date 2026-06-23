@@ -2,7 +2,7 @@
   <img src="assets/overview_GitHub_1.png" width="820" alt="AWUG overview">
 </p>
 <p align="center">
-  <img src="assets/Electrical_architecture_0427_4.png" width="300" alt="Electrical architecture">
+  <img src="assets/Electrical_architecture_0427_4.png" width="760" alt="Electrical architecture">
 </p>
 
 # Morphing-Wing MUG Open-Source Repository
