@@ -29,12 +29,12 @@ This repository is the public release hub for the morphing-wing MUG prototype. I
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="70%" align="center">
       <img src="hardware/3-view_drawing.PNG" width="430" alt="Morphing-wing MUG three-view drawing">
       <br>
       <sub>Three-view drawing of the morphing-wing MUG prototype.</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="20%" align="center">
       <img src="electronics/PCB.png" width="430" alt="Morphing-wing MUG PCB view">
       <br>
       <sub>PCB view of the embedded electronic system.</sub>
