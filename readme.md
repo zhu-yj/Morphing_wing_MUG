@@ -37,7 +37,17 @@ This repository is the public release hub for the morphing-wing MUG prototype. I
     <td width="50%" align="center">
       <img src="assets/both.png" width="430" alt="Functional experiment validation">
       <br>
-      <sub>Functional experiment validation and representative system behavior.</sub>
+      <sub>Functional experiment validation of open-loop gate traversal and asymmetric-wing turning experiments.</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="90%" align="center">
+      <img src="software/joystick_view_1.png" width="430" alt="Joystick button-function mapping">
+      <br>
+      <sub>Joystick button-function mapping for operating the morphing-wing MUG prototype.</sub>
     </td>
   </tr>
 </table>
