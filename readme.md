@@ -42,15 +42,11 @@ This repository is the public release hub for the morphing-wing MUG prototype. I
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="software/joystick_view_1.png" width="430" alt="Joystick button-function mapping">
-      <br>
-      <sub>Joystick button-function mapping for operating the morphing-wing MUG prototype.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="software/joystick_view_1.png" width="430" alt="Joystick button-function mapping">
+  <br>
+  <sub>Joystick button-function mapping for operating the morphing-wing MUG prototype.</sub>
+</p>
 
 ## Repository Layout
 
