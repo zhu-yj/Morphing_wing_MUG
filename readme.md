@@ -19,25 +19,25 @@ This repository is the public release hub for the morphing-wing MUG prototype. I
       <br>
       <sub>Electrical architecture and onboard system connections.</sub>
     </td>
-    <td width="50%" align="center">
-      <img src="assets/both.png" width="430" alt="Functional experiment validation">
+    <td width="25%" align="center">
+      <img src="electronics/PCB.png" width="430" alt="Morphing-wing MUG PCB view">
       <br>
-      <sub>Functional experiment validation and representative system behavior.</sub>
+      <sub>PCB view of the embedded electronic system.</sub>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="70%" align="center">
+    <td width="50%" align="center">
       <img src="hardware/3-view_drawing.PNG" width="430" alt="Morphing-wing MUG three-view drawing">
       <br>
       <sub>Three-view drawing of the morphing-wing MUG prototype, with the left wing fully deployed and the right wing fully folded.</sub>
     </td>
     <td width="50%" align="center">
-      <img src="electronics/PCB.png" width="430" alt="Morphing-wing MUG PCB view">
+      <img src="assets/both.png" width="430" alt="Functional experiment validation">
       <br>
-      <sub>PCB view of the embedded electronic system.</sub>
+      <sub>Functional experiment validation and representative system behavior.</sub>
     </td>
   </tr>
 </table>
