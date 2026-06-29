@@ -37,7 +37,7 @@ This repository is the public release hub for the morphing-wing MUG prototype. I
     <td width="50%" align="center">
       <img src="assets/both.png" width="430" alt="Functional experiment validation">
       <br>
-      <sub>Functional experiment validation of open-loop gate traversal and asymmetric-wing turning experiments.</sub>
+      <sub>Functional experiment validation of open-loop gate traversal experiments.</sub>
     </td>
   </tr>
 </table>
